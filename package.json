@@ -1,0 +1,9 @@
+{
+  "name": "ipeenkbypass",
+  "description": "-",
+  "version": "1.0",
+  "dependencies": {
+    "node-fetch": "2.6.1",
+    "readline": "1.3.0"
+  }
+}
