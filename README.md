@@ -1,6 +1,6 @@
-# Ceker Mambu 
+# Bypass Ipeenk
 
-Free API checker from [Malenk IO](http://malenk.io/)
+Bypass Ipeenk With Only Link Article
 
 ---
 ## Requirements
@@ -46,4 +46,4 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Running the project
 
-    $ node bypass.js
+    $ node bypassipeenk.js
