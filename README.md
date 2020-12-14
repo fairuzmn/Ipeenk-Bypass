@@ -39,7 +39,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/fairuzmn/bypassipeenk.git
+    $ git clone github.com/fairuzmn/Ipeenk-Bypass.git
     $ cd bypassipeenk
     $ npm install
 
