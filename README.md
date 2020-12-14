@@ -40,10 +40,10 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Install
 
     $ git clone github.com/fairuzmn/Ipeenk-Bypass.git
-    $ cd bypassipeenk
+    $ cd ipeenk-bypass
     $ npm install
 
 
 ## Running the project
 
-    $ node bypassipeenk.js
+    $ node app.js
